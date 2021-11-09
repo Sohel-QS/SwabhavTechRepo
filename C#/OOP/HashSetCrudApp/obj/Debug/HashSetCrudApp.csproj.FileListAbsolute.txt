@@ -1,0 +1,7 @@
+C:\Users\Sohil\source\repos\HashSetCrudApp\obj\Debug\HashSetCrudApp.csproj.AssemblyReference.cache
+C:\Users\Sohil\source\repos\HashSetCrudApp\obj\Debug\HashSetCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\Sohil\source\repos\HashSetCrudApp\bin\Debug\HashSetCrudApp.exe.config
+C:\Users\Sohil\source\repos\HashSetCrudApp\bin\Debug\HashSetCrudApp.exe
+C:\Users\Sohil\source\repos\HashSetCrudApp\bin\Debug\HashSetCrudApp.pdb
+C:\Users\Sohil\source\repos\HashSetCrudApp\obj\Debug\HashSetCrudApp.exe
+C:\Users\Sohil\source\repos\HashSetCrudApp\obj\Debug\HashSetCrudApp.pdb
