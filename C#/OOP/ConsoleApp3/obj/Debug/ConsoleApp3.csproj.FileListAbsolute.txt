@@ -1,7 +1,0 @@
-C:\SwabhavTech\C#\OOP\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-C:\SwabhavTech\C#\OOP\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-C:\SwabhavTech\C#\OOP\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
-C:\SwabhavTech\C#\OOP\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
-C:\SwabhavTech\C#\OOP\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
-C:\SwabhavTech\C#\OOP\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-C:\SwabhavTech\C#\OOP\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
