@@ -1,0 +1,7 @@
+C:\Users\Sohil\source\repos\TodoV1\bin\Debug\TodoV1.exe.config
+C:\Users\Sohil\source\repos\TodoV1\bin\Debug\TodoV1.exe
+C:\Users\Sohil\source\repos\TodoV1\bin\Debug\TodoV1.pdb
+C:\Users\Sohil\source\repos\TodoV1\obj\Debug\TodoV1.csproj.AssemblyReference.cache
+C:\Users\Sohil\source\repos\TodoV1\obj\Debug\TodoV1.csproj.CoreCompileInputs.cache
+C:\Users\Sohil\source\repos\TodoV1\obj\Debug\TodoV1.exe
+C:\Users\Sohil\source\repos\TodoV1\obj\Debug\TodoV1.pdb
