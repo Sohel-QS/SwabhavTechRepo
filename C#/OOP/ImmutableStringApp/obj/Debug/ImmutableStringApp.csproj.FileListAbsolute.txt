@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\ImmutableStringApp\obj\Debug\ImmutableStringApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\ImmutableStringApp\obj\Debug\ImmutableStringApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\ImmutableStringApp\bin\Debug\ImmutableStringApp.exe.config
+C:\SwabhavTech\C#\OOP\ImmutableStringApp\bin\Debug\ImmutableStringApp.exe
+C:\SwabhavTech\C#\OOP\ImmutableStringApp\bin\Debug\ImmutableStringApp.pdb
+C:\SwabhavTech\C#\OOP\ImmutableStringApp\obj\Debug\ImmutableStringApp.exe
+C:\SwabhavTech\C#\OOP\ImmutableStringApp\obj\Debug\ImmutableStringApp.pdb

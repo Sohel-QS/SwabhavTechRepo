@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\ExceptionCallStack\bin\Debug\ExceptionCallStack.exe.config
+C:\SwabhavTech\C#\OOP\ExceptionCallStack\bin\Debug\ExceptionCallStack.exe
+C:\SwabhavTech\C#\OOP\ExceptionCallStack\bin\Debug\ExceptionCallStack.pdb
+C:\SwabhavTech\C#\OOP\ExceptionCallStack\obj\Debug\ExceptionCallStackApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\ExceptionCallStack\obj\Debug\ExceptionCallStackApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\ExceptionCallStack\obj\Debug\ExceptionCallStack.exe
+C:\SwabhavTech\C#\OOP\ExceptionCallStack\obj\Debug\ExceptionCallStack.pdb

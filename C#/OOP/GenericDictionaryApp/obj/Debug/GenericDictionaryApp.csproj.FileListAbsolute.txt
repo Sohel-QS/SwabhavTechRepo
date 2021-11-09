@@ -1,0 +1,10 @@
+C:\SwabhavTech\C#\OOP\GenericDictionaryApp\bin\Debug\GenericDictionaryApp.exe.config
+C:\SwabhavTech\C#\OOP\GenericDictionaryApp\bin\Debug\GenericDictionaryApp.exe
+C:\SwabhavTech\C#\OOP\GenericDictionaryApp\bin\Debug\GenericDictionaryApp.pdb
+C:\SwabhavTech\C#\OOP\GenericDictionaryApp\obj\Debug\GenericDictionaryApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\GenericDictionaryApp\obj\Debug\GenericDictionaryApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\GenericDictionaryApp\obj\Debug\GenericDictionaryApp.exe
+C:\SwabhavTech\C#\OOP\GenericDictionaryApp\obj\Debug\GenericDictionaryApp.pdb
+C:\SwabhavTech\C#\OOP\GenericDictionaryApp\bin\Debug\AurionProMathCalculator.dll
+C:\SwabhavTech\C#\OOP\GenericDictionaryApp\bin\Debug\AurionProMathCalculator.pdb
+C:\SwabhavTech\C#\OOP\GenericDictionaryApp\obj\Debug\GenericDictionaryApp.csproj.CopyComplete

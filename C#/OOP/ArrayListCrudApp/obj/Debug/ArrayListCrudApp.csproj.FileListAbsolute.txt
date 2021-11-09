@@ -1,0 +1,12 @@
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\obj\Debug\ArrayListCrudApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\obj\Debug\ArrayListCrudApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\bin\Debug\ArrayListCrudApp.exe.config
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\bin\Debug\ArrayListCrudApp.exe
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\bin\Debug\ArrayListCrudApp.pdb
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\obj\Debug\ArrayListCrudApp.exe
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\obj\Debug\ArrayListCrudApp.pdb
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\bin\Debug\ArrayListCrudLib.dll
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\bin\Debug\ArrayListCrudLib.pdb
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\obj\Debug\ArrayListCrudApp.csproj.CopyComplete
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\bin\Debug\AurionProMathCalculator.dll
+C:\SwabhavTech\C#\OOP\ArrayListCrudApp\bin\Debug\AurionProMathCalculator.pdb

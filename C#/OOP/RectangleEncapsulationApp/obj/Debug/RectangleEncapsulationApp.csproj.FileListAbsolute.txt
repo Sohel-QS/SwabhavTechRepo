@@ -1,0 +1,7 @@
+C:\Users\Sohil\source\repos\RectangleEncapsulationApp\bin\Debug\RectangleEncapsulationApp.exe.config
+C:\Users\Sohil\source\repos\RectangleEncapsulationApp\bin\Debug\RectangleEncapsulationApp.exe
+C:\Users\Sohil\source\repos\RectangleEncapsulationApp\bin\Debug\RectangleEncapsulationApp.pdb
+C:\Users\Sohil\source\repos\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.csproj.AssemblyReference.cache
+C:\Users\Sohil\source\repos\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.csproj.CoreCompileInputs.cache
+C:\Users\Sohil\source\repos\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.exe
+C:\Users\Sohil\source\repos\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.pdb

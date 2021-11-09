@@ -1,0 +1,13 @@
+C:\SwabhavTech\C#\OOP\TodoAppV1\obj\Debug\TodoAppV1.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\TodoAppV1\obj\Debug\TodoAppV1.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\TodoAppV1\bin\Debug\TodoAppV1.exe.config
+C:\SwabhavTech\C#\OOP\TodoAppV1\bin\Debug\TodoAppV1.exe
+C:\SwabhavTech\C#\OOP\TodoAppV1\bin\Debug\TodoAppV1.pdb
+C:\SwabhavTech\C#\OOP\TodoAppV1\obj\Debug\TodoAppV1.exe
+C:\SwabhavTech\C#\OOP\TodoAppV1\obj\Debug\TodoAppV1.pdb
+D:\TodoAppV1\bin\Debug\TodoAppV1.exe.config
+D:\TodoAppV1\bin\Debug\TodoAppV1.exe
+D:\TodoAppV1\obj\Debug\TodoAppV1.csproj.AssemblyReference.cache
+D:\TodoAppV1\obj\Debug\TodoAppV1.csproj.CoreCompileInputs.cache
+D:\TodoAppV1\obj\Debug\TodoAppV1.exe
+D:\TodoAppV1\obj\Debug\TodoAppV1.pdb

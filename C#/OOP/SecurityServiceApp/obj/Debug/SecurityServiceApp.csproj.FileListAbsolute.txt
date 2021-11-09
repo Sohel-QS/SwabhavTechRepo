@@ -1,0 +1,10 @@
+C:\SwabhavTech\C#\OOP\SecurityServiceApp\bin\Debug\SecurityServiceApp.exe.config
+C:\SwabhavTech\C#\OOP\SecurityServiceApp\bin\Debug\SecurityServiceApp.exe
+C:\SwabhavTech\C#\OOP\SecurityServiceApp\bin\Debug\SecurityServiceApp.pdb
+C:\SwabhavTech\C#\OOP\SecurityServiceApp\bin\Debug\AurionProMathCalculator.dll
+C:\SwabhavTech\C#\OOP\SecurityServiceApp\bin\Debug\AurionProMathCalculator.pdb
+C:\SwabhavTech\C#\OOP\SecurityServiceApp\obj\Debug\SecurityServiceApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\SecurityServiceApp\obj\Debug\SecurityServiceApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\SecurityServiceApp\obj\Debug\SecurityServiceApp.csproj.CopyComplete
+C:\SwabhavTech\C#\OOP\SecurityServiceApp\obj\Debug\SecurityServiceApp.exe
+C:\SwabhavTech\C#\OOP\SecurityServiceApp\obj\Debug\SecurityServiceApp.pdb

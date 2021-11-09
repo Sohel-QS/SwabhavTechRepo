@@ -1,0 +1,14 @@
+C:\Users\Sohil\source\repos\MyUnitTestApp\obj\Debug\MyUnitTestApp.csproj.AssemblyReference.cache
+C:\Users\Sohil\source\repos\MyUnitTestApp\obj\Debug\MyUnitTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Sohil\source\repos\MyUnitTestApp\bin\Debug\MyUnitTestApp.exe.config
+C:\Users\Sohil\source\repos\MyUnitTestApp\bin\Debug\MyUnitTestApp.exe
+C:\Users\Sohil\source\repos\MyUnitTestApp\bin\Debug\MyUnitTestApp.pdb
+C:\Users\Sohil\source\repos\MyUnitTestApp\obj\Debug\MyUnitTestApp.exe
+C:\Users\Sohil\source\repos\MyUnitTestApp\obj\Debug\MyUnitTestApp.pdb
+C:\SwabhavTech\C#\OOP\MyUnitTestApp\bin\Debug\MyUnitTestApp.exe.config
+C:\SwabhavTech\C#\OOP\MyUnitTestApp\bin\Debug\MyUnitTestApp.exe
+C:\SwabhavTech\C#\OOP\MyUnitTestApp\bin\Debug\MyUnitTestApp.pdb
+C:\SwabhavTech\C#\OOP\MyUnitTestApp\obj\Debug\MyUnitTestApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\MyUnitTestApp\obj\Debug\MyUnitTestApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\MyUnitTestApp\obj\Debug\MyUnitTestApp.exe
+C:\SwabhavTech\C#\OOP\MyUnitTestApp\obj\Debug\MyUnitTestApp.pdb

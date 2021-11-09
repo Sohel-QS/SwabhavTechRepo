@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\InterfaceMovableApp\bin\Debug\InterfaceMovableApp.exe.config
+C:\SwabhavTech\C#\OOP\InterfaceMovableApp\bin\Debug\InterfaceMovableApp.exe
+C:\SwabhavTech\C#\OOP\InterfaceMovableApp\bin\Debug\InterfaceMovableApp.pdb
+C:\SwabhavTech\C#\OOP\InterfaceMovableApp\obj\Debug\InterfaceMovableApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\InterfaceMovableApp\obj\Debug\InterfaceMovableApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\InterfaceMovableApp\obj\Debug\InterfaceMovableApp.exe
+C:\SwabhavTech\C#\OOP\InterfaceMovableApp\obj\Debug\InterfaceMovableApp.pdb

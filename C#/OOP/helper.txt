@@ -1,0 +1,47 @@
+public  string[,] gridBlock = new string[7, 7]{
+            { "A0","A1","A2","A3","A4","A5","A6" },
+            { "B0","B1","B2","B3","B4","B5","B6" },
+            { "C0","C1","C2","C3","C4","C5","C6" },
+            { "D0","D1","D2","D3","D4","D5","D6" },
+            { "E0","E1","E2","E3","E4","E5","E6" },
+            { "F0","F1","F2","F3","F4","F5","F6" },
+            { "G0","G1","G2","G3","G4","G5","G6" },
+        };
+
+        public bool Check(string userGuess)
+        {
+            bool checkResult = false;
+            for (int verIndex = 0; verIndex < 7; verIndex++)
+                for (int horIndex = 0; horIndex < 7; horIndex++)
+                {
+                    if (userGuess == gridBlock[verIndex, horIndex])
+                        checkResult = true;
+                    else
+                        continue;
+                }
+            return checkResult;
+        }
+
+        public bool UserConfirmation()
+        {
+            bool confResult = false;
+            int flag = 1;
+            char yesNo = ' ';
+            while(flag != 0)
+            {
+                yesNo = Convert.ToChar(Console.ReadLine());
+                if(yesNo == 'y')
+                {
+                    flag = 0;
+                    confResult = true;
+                }
+                else if(yesNo == 'n')
+                    flag = 0;
+                else
+                {
+                    Console.Write("Invalid Input Try Again :");
+                    continue;
+                }    
+            }
+            return confResult;
+        }

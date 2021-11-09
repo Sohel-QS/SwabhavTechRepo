@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\DictionaryCrudApp\bin\Debug\DictionaryCrudApp.exe.config
+C:\SwabhavTech\C#\OOP\DictionaryCrudApp\bin\Debug\DictionaryCrudApp.exe
+C:\SwabhavTech\C#\OOP\DictionaryCrudApp\bin\Debug\DictionaryCrudApp.pdb
+C:\SwabhavTech\C#\OOP\DictionaryCrudApp\obj\Debug\DictionaryCrudApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\DictionaryCrudApp\obj\Debug\DictionaryCrudApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\DictionaryCrudApp\obj\Debug\DictionaryCrudApp.exe
+C:\SwabhavTech\C#\OOP\DictionaryCrudApp\obj\Debug\DictionaryCrudApp.pdb

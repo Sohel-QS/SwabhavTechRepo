@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\PlayerApp\bin\Debug\PlayerApp.exe.config
+C:\SwabhavTech\C#\OOP\PlayerApp\bin\Debug\PlayerApp.exe
+C:\SwabhavTech\C#\OOP\PlayerApp\bin\Debug\PlayerApp.pdb
+C:\SwabhavTech\C#\OOP\PlayerApp\obj\Debug\PlayerApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\PlayerApp\obj\Debug\PlayerApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\PlayerApp\obj\Debug\PlayerApp.exe
+C:\SwabhavTech\C#\OOP\PlayerApp\obj\Debug\PlayerApp.pdb

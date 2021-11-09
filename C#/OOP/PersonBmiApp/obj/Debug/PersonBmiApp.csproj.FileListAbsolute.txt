@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\PersonBmiApp\obj\Debug\PersonBmiApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\PersonBmiApp\obj\Debug\PersonBmiApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\PersonBmiApp\bin\Debug\PersonBmiApp.exe.config
+C:\SwabhavTech\C#\OOP\PersonBmiApp\bin\Debug\PersonBmiApp.exe
+C:\SwabhavTech\C#\OOP\PersonBmiApp\bin\Debug\PersonBmiApp.pdb
+C:\SwabhavTech\C#\OOP\PersonBmiApp\obj\Debug\PersonBmiApp.exe
+C:\SwabhavTech\C#\OOP\PersonBmiApp\obj\Debug\PersonBmiApp.pdb

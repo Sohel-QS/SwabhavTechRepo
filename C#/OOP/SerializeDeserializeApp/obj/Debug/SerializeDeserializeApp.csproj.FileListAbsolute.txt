@@ -1,0 +1,7 @@
+C:\Users\Sohil\source\repos\SerializeDeserializeApp\bin\Debug\SerializeDeserializeApp.exe.config
+C:\Users\Sohil\source\repos\SerializeDeserializeApp\bin\Debug\SerializeDeserializeApp.exe
+C:\Users\Sohil\source\repos\SerializeDeserializeApp\bin\Debug\SerializeDeserializeApp.pdb
+C:\Users\Sohil\source\repos\SerializeDeserializeApp\obj\Debug\SerializeDeserializeApp.csproj.AssemblyReference.cache
+C:\Users\Sohil\source\repos\SerializeDeserializeApp\obj\Debug\SerializeDeserializeApp.csproj.CoreCompileInputs.cache
+C:\Users\Sohil\source\repos\SerializeDeserializeApp\obj\Debug\SerializeDeserializeApp.exe
+C:\Users\Sohil\source\repos\SerializeDeserializeApp\obj\Debug\SerializeDeserializeApp.pdb

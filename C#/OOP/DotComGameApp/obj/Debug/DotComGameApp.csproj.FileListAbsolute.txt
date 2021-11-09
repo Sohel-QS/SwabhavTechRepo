@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\DotComGameApp\obj\Debug\DotComGameApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\DotComGameApp\obj\Debug\DotComGameApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\DotComGameApp\bin\Debug\DotComGameApp.exe.config
+C:\SwabhavTech\C#\OOP\DotComGameApp\bin\Debug\DotComGameApp.exe
+C:\SwabhavTech\C#\OOP\DotComGameApp\bin\Debug\DotComGameApp.pdb
+C:\SwabhavTech\C#\OOP\DotComGameApp\obj\Debug\DotComGameApp.exe
+C:\SwabhavTech\C#\OOP\DotComGameApp\obj\Debug\DotComGameApp.pdb

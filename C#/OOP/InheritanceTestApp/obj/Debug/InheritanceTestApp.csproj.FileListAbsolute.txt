@@ -1,0 +1,6 @@
+C:\SwabhavTech\C#\OOP\InheritanceTestApp\bin\Debug\InheritanceTestApp.exe.config
+C:\SwabhavTech\C#\OOP\InheritanceTestApp\bin\Debug\InheritanceTestApp.exe
+C:\SwabhavTech\C#\OOP\InheritanceTestApp\bin\Debug\InheritanceTestApp.pdb
+C:\SwabhavTech\C#\OOP\InheritanceTestApp\obj\Debug\InheritanceTestApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\InheritanceTestApp\obj\Debug\InheritanceTestApp.exe
+C:\SwabhavTech\C#\OOP\InheritanceTestApp\obj\Debug\InheritanceTestApp.pdb

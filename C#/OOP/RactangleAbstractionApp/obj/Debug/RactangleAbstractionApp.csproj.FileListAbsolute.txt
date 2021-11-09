@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\RactangleAbstractionApp\bin\Debug\RactangleAbstractionApp.exe.config
+C:\SwabhavTech\C#\OOP\RactangleAbstractionApp\bin\Debug\RactangleAbstractionApp.exe
+C:\SwabhavTech\C#\OOP\RactangleAbstractionApp\bin\Debug\RactangleAbstractionApp.pdb
+C:\SwabhavTech\C#\OOP\RactangleAbstractionApp\obj\Debug\RactangleAbstractionApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\RactangleAbstractionApp\obj\Debug\RactangleAbstractionApp.exe
+C:\SwabhavTech\C#\OOP\RactangleAbstractionApp\obj\Debug\RactangleAbstractionApp.pdb
+C:\SwabhavTech\C#\OOP\RactangleAbstractionApp\obj\Debug\RactangleAbstractionApp.csproj.AssemblyReference.cache

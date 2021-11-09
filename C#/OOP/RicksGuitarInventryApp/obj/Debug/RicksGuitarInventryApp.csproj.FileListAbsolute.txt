@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\RicksGuitarInventryApp\bin\Debug\RicksGuitarInventryApp.exe.config
+C:\SwabhavTech\C#\OOP\RicksGuitarInventryApp\bin\Debug\RicksGuitarInventryApp.exe
+C:\SwabhavTech\C#\OOP\RicksGuitarInventryApp\bin\Debug\RicksGuitarInventryApp.pdb
+C:\SwabhavTech\C#\OOP\RicksGuitarInventryApp\obj\Debug\RicksGuitarInventryApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\RicksGuitarInventryApp\obj\Debug\RicksGuitarInventryApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\RicksGuitarInventryApp\obj\Debug\RicksGuitarInventryApp.exe
+C:\SwabhavTech\C#\OOP\RicksGuitarInventryApp\obj\Debug\RicksGuitarInventryApp.pdb

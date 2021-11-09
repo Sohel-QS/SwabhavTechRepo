@@ -1,0 +1,10 @@
+C:\SwabhavTech\C#\OOP\ConsoleShoppingCartApp\ConsoleShoppingCartApp\bin\Debug\ConsoleShoppingCartApp.exe.config
+C:\SwabhavTech\C#\OOP\ConsoleShoppingCartApp\ConsoleShoppingCartApp\bin\Debug\ConsoleShoppingCartApp.exe
+C:\SwabhavTech\C#\OOP\ConsoleShoppingCartApp\ConsoleShoppingCartApp\bin\Debug\ConsoleShoppingCartApp.pdb
+C:\SwabhavTech\C#\OOP\ConsoleShoppingCartApp\ConsoleShoppingCartApp\bin\Debug\ShopingCartLib.dll
+C:\SwabhavTech\C#\OOP\ConsoleShoppingCartApp\ConsoleShoppingCartApp\bin\Debug\ShopingCartLib.pdb
+C:\SwabhavTech\C#\OOP\ConsoleShoppingCartApp\ConsoleShoppingCartApp\obj\Debug\ConsoleShoppingCartApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\ConsoleShoppingCartApp\ConsoleShoppingCartApp\obj\Debug\ConsoleShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\ConsoleShoppingCartApp\ConsoleShoppingCartApp\obj\Debug\ConsoleShoppingCartApp.csproj.CopyComplete
+C:\SwabhavTech\C#\OOP\ConsoleShoppingCartApp\ConsoleShoppingCartApp\obj\Debug\ConsoleShoppingCartApp.exe
+C:\SwabhavTech\C#\OOP\ConsoleShoppingCartApp\ConsoleShoppingCartApp\obj\Debug\ConsoleShoppingCartApp.pdb

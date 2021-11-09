@@ -1,0 +1,6 @@
+C:\SwabhavTech\C#\OOP\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\SwabhavTech\C#\OOP\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\SwabhavTech\C#\OOP\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\SwabhavTech\C#\OOP\ConsoleApp2\obj\Debug\CircleEncapsulationTestApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\SwabhavTech\C#\OOP\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,5 @@
+C:\SwabhavTech\C#\OOP\ShoppingCartSolution\ShopingCartLib\bin\Debug\ShopingCartLib.dll
+C:\SwabhavTech\C#\OOP\ShoppingCartSolution\ShopingCartLib\bin\Debug\ShopingCartLib.pdb
+C:\SwabhavTech\C#\OOP\ShoppingCartSolution\ShopingCartLib\obj\Debug\ShopingCartLib.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\ShoppingCartSolution\ShopingCartLib\obj\Debug\ShopingCartLib.dll
+C:\SwabhavTech\C#\OOP\ShoppingCartSolution\ShopingCartLib\obj\Debug\ShopingCartLib.pdb

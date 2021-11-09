@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\NumberGuesserGame\bin\Debug\NumberGuesserGame.exe.config
+C:\SwabhavTech\C#\OOP\NumberGuesserGame\bin\Debug\NumberGuesserGame.exe
+C:\SwabhavTech\C#\OOP\NumberGuesserGame\bin\Debug\NumberGuesserGame.pdb
+C:\SwabhavTech\C#\OOP\NumberGuesserGame\obj\Debug\NumberGuesserGame.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\NumberGuesserGame\obj\Debug\NumberGuesserGame.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\NumberGuesserGame\obj\Debug\NumberGuesserGame.exe
+C:\SwabhavTech\C#\OOP\NumberGuesserGame\obj\Debug\NumberGuesserGame.pdb

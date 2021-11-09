@@ -1,0 +1,7 @@
+C:\Users\Sohil\source\repos\StructTestApp\bin\Debug\StructTestApp.exe.config
+C:\Users\Sohil\source\repos\StructTestApp\bin\Debug\StructTestApp.exe
+C:\Users\Sohil\source\repos\StructTestApp\bin\Debug\StructTestApp.pdb
+C:\Users\Sohil\source\repos\StructTestApp\obj\Debug\StructTestApp.csproj.AssemblyReference.cache
+C:\Users\Sohil\source\repos\StructTestApp\obj\Debug\StructTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Sohil\source\repos\StructTestApp\obj\Debug\StructTestApp.exe
+C:\Users\Sohil\source\repos\StructTestApp\obj\Debug\StructTestApp.pdb

@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\ProductApp\bin\Debug\ProductApp.exe.config
+C:\SwabhavTech\C#\OOP\ProductApp\bin\Debug\ProductApp.exe
+C:\SwabhavTech\C#\OOP\ProductApp\bin\Debug\ProductApp.pdb
+C:\SwabhavTech\C#\OOP\ProductApp\obj\Debug\ProductApp.exe
+C:\SwabhavTech\C#\OOP\ProductApp\obj\Debug\ProductApp.pdb

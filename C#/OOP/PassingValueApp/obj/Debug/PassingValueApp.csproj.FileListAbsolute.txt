@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\PassingValueApp\bin\Debug\PassingValueApp.exe.config
+C:\SwabhavTech\C#\OOP\PassingValueApp\bin\Debug\PassingValueApp.exe
+C:\SwabhavTech\C#\OOP\PassingValueApp\bin\Debug\PassingValueApp.pdb
+C:\SwabhavTech\C#\OOP\PassingValueApp\obj\Debug\PassingValueApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\PassingValueApp\obj\Debug\PassingValueApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\PassingValueApp\obj\Debug\PassingValueApp.exe
+C:\SwabhavTech\C#\OOP\PassingValueApp\obj\Debug\PassingValueApp.pdb

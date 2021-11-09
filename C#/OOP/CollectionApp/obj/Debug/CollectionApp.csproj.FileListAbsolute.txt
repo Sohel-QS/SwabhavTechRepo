@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\CollectionApp\obj\Debug\CollectionApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\CollectionApp\obj\Debug\CollectionApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\CollectionApp\bin\Debug\CollectionApp.exe.config
+C:\SwabhavTech\C#\OOP\CollectionApp\bin\Debug\CollectionApp.exe
+C:\SwabhavTech\C#\OOP\CollectionApp\bin\Debug\CollectionApp.pdb
+C:\SwabhavTech\C#\OOP\CollectionApp\obj\Debug\CollectionApp.exe
+C:\SwabhavTech\C#\OOP\CollectionApp\obj\Debug\CollectionApp.pdb

@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\AccountApp\obj\Debug\AccountApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\AccountApp\bin\Debug\AccountApp.exe.config
+C:\SwabhavTech\C#\OOP\AccountApp\bin\Debug\AccountApp.exe
+C:\SwabhavTech\C#\OOP\AccountApp\bin\Debug\AccountApp.pdb
+C:\SwabhavTech\C#\OOP\AccountApp\obj\Debug\AccountApp.exe
+C:\SwabhavTech\C#\OOP\AccountApp\obj\Debug\AccountApp.pdb

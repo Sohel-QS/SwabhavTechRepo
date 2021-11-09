@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\CustomerReflectorApp\bin\Debug\CustomerReflectorApp.exe.config
+C:\SwabhavTech\C#\OOP\CustomerReflectorApp\bin\Debug\CustomerReflectorApp.exe
+C:\SwabhavTech\C#\OOP\CustomerReflectorApp\bin\Debug\CustomerReflectorApp.pdb
+C:\SwabhavTech\C#\OOP\CustomerReflectorApp\obj\Debug\CustomerReflectorApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\CustomerReflectorApp\obj\Debug\CustomerReflectorApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\CustomerReflectorApp\obj\Debug\CustomerReflectorApp.exe
+C:\SwabhavTech\C#\OOP\CustomerReflectorApp\obj\Debug\CustomerReflectorApp.pdb

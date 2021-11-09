@@ -1,0 +1,14 @@
+C:\Users\Sohil\source\repos\FileHandlingApp\bin\Debug\FileHandlingApp.exe.config
+C:\Users\Sohil\source\repos\FileHandlingApp\bin\Debug\FileHandlingApp.exe
+C:\Users\Sohil\source\repos\FileHandlingApp\bin\Debug\FileHandlingApp.pdb
+C:\Users\Sohil\source\repos\FileHandlingApp\obj\Debug\FileHandlingApp.csproj.AssemblyReference.cache
+C:\Users\Sohil\source\repos\FileHandlingApp\obj\Debug\FileHandlingApp.csproj.CoreCompileInputs.cache
+C:\Users\Sohil\source\repos\FileHandlingApp\obj\Debug\FileHandlingApp.exe
+C:\Users\Sohil\source\repos\FileHandlingApp\obj\Debug\FileHandlingApp.pdb
+C:\SwabhavTech\C#\OOP\FileHandlingApp\bin\Debug\FileHandlingApp.exe.config
+C:\SwabhavTech\C#\OOP\FileHandlingApp\bin\Debug\FileHandlingApp.exe
+C:\SwabhavTech\C#\OOP\FileHandlingApp\bin\Debug\FileHandlingApp.pdb
+C:\SwabhavTech\C#\OOP\FileHandlingApp\obj\Debug\FileHandlingApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\FileHandlingApp\obj\Debug\FileHandlingApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\FileHandlingApp\obj\Debug\FileHandlingApp.exe
+C:\SwabhavTech\C#\OOP\FileHandlingApp\obj\Debug\FileHandlingApp.pdb

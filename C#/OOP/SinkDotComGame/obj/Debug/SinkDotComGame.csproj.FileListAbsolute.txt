@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\SinkDotComGame\bin\Debug\SinkDotComGame.exe.config
+C:\SwabhavTech\C#\OOP\SinkDotComGame\bin\Debug\SinkDotComGame.exe
+C:\SwabhavTech\C#\OOP\SinkDotComGame\bin\Debug\SinkDotComGame.pdb
+C:\SwabhavTech\C#\OOP\SinkDotComGame\obj\Debug\SinkDotComGame.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\SinkDotComGame\obj\Debug\SinkDotComGame.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\SinkDotComGame\obj\Debug\SinkDotComGame.exe
+C:\SwabhavTech\C#\OOP\SinkDotComGame\obj\Debug\SinkDotComGame.pdb

@@ -1,0 +1,89 @@
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1
+$ git init
+Initialized empty Git repository in C:/SwabhavTech/Git/repo1/.git/
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ git config --global core.editor "code --wait"
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ git config --global -e
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ echo hell>file1.txt
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ echo hello>file1.txt
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ echo helloworld>file2.txt
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ git add file1.txt
+warning: LF will be replaced by CRLF in file1.txt.
+The file will have its original line endings in your working directory
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ git add file2.txt
+warning: LF will be replaced by CRLF in file2.txt.
+The file will have its original line endings in your working directory
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ git commit -m 'file1/file2 initial changes'
+[master (root-commit) b3a2853] file1/file2 initial changes
+ 2 files changed, 2 insertions(+)
+ create mode 100644 file1.txt
+ create mode 100644 file2.txt
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ git cat-file -p b3a2
+tree a523c3fda248f08994e79280780204178ca1338c
+author Sohel-QS <manerisohel@gmail.com> 1636142168 +0530
+committer Sohel-QS <manerisohel@gmail.com> 1636142168 +0530
+
+file1/file2 initial changes
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ ^C
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ echo textfile>file3.txt
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file3.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ git add file3.txt
+warning: LF will be replaced by CRLF in file3.txt.
+The file will have its original line endings in your working directory
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   file3.txt
+
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ git commit -m 'file3 added'
+[master ba1012e] file3 added
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file3.txt
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$ git cat-file -p ba10
+tree d6d3eb3e3baf4f16d83d56f581d92b968127a2da
+parent b3a28534da2ad29dc314a99eddaa2397ba413595
+author Sohel-QS <manerisohel@gmail.com> 1636142584 +0530
+committer Sohel-QS <manerisohel@gmail.com> 1636142584 +0530
+
+file3 added
+
+Sohil@DESKTOP-397D28B MINGW64 /c/SwabhavTech/Git/repo1 (master)
+$

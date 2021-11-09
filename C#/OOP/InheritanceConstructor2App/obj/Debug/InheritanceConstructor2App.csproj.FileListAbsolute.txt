@@ -1,0 +1,6 @@
+C:\SwabhavTech\C#\OOP\InheritanceConstructor2App\obj\Debug\InheritanceConstructor2App.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\InheritanceConstructor2App\bin\Debug\InheritanceConstructor2App.exe.config
+C:\SwabhavTech\C#\OOP\InheritanceConstructor2App\bin\Debug\InheritanceConstructor2App.exe
+C:\SwabhavTech\C#\OOP\InheritanceConstructor2App\bin\Debug\InheritanceConstructor2App.pdb
+C:\SwabhavTech\C#\OOP\InheritanceConstructor2App\obj\Debug\InheritanceConstructor2App.exe
+C:\SwabhavTech\C#\OOP\InheritanceConstructor2App\obj\Debug\InheritanceConstructor2App.pdb

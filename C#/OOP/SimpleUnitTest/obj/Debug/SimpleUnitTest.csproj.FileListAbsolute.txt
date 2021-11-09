@@ -1,0 +1,16 @@
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\bin\Debug\SimpleUnitTest.dll
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\bin\Debug\SimpleUnitTest.pdb
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\bin\Debug\MathLibrary.dll
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\bin\Debug\MathLibrary.pdb
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\obj\Debug\SimpleUnitTest.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\obj\Debug\SimpleUnitTest.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\obj\Debug\SimpleUnitTest.csproj.CopyComplete
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\obj\Debug\SimpleUnitTest.dll
+C:\SwabhavTech\C#\OOP\SimpleUnitTest\obj\Debug\SimpleUnitTest.pdb

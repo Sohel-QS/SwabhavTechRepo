@@ -1,0 +1,7 @@
+C:\Users\Sohil\source\repos\ClassTestApp\bin\Debug\ClassTestApp.exe.config
+C:\Users\Sohil\source\repos\ClassTestApp\bin\Debug\ClassTestApp.exe
+C:\Users\Sohil\source\repos\ClassTestApp\bin\Debug\ClassTestApp.pdb
+C:\Users\Sohil\source\repos\ClassTestApp\obj\Debug\ClassTestApp.csproj.AssemblyReference.cache
+C:\Users\Sohil\source\repos\ClassTestApp\obj\Debug\ClassTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Sohil\source\repos\ClassTestApp\obj\Debug\ClassTestApp.exe
+C:\Users\Sohil\source\repos\ClassTestApp\obj\Debug\ClassTestApp.pdb

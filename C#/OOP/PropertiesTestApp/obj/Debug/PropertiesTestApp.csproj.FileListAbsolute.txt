@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\PropertiesTestApp\bin\Debug\PropertiesTestApp.exe.config
+C:\SwabhavTech\C#\OOP\PropertiesTestApp\bin\Debug\PropertiesTestApp.exe
+C:\SwabhavTech\C#\OOP\PropertiesTestApp\bin\Debug\PropertiesTestApp.pdb
+C:\SwabhavTech\C#\OOP\PropertiesTestApp\obj\Debug\PropertiesTestApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\PropertiesTestApp\obj\Debug\PropertiesTestApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\PropertiesTestApp\obj\Debug\PropertiesTestApp.exe
+C:\SwabhavTech\C#\OOP\PropertiesTestApp\obj\Debug\PropertiesTestApp.pdb

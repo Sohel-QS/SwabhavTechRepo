@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\PropertiesSyntaxApp\bin\Debug\PropertiesSyntaxApp.exe.config
+C:\SwabhavTech\C#\OOP\PropertiesSyntaxApp\bin\Debug\PropertiesSyntaxApp.exe
+C:\SwabhavTech\C#\OOP\PropertiesSyntaxApp\bin\Debug\PropertiesSyntaxApp.pdb
+C:\SwabhavTech\C#\OOP\PropertiesSyntaxApp\obj\Debug\PropertiesSyntaxApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\PropertiesSyntaxApp\obj\Debug\PropertiesSyntaxApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\PropertiesSyntaxApp\obj\Debug\PropertiesSyntaxApp.exe
+C:\SwabhavTech\C#\OOP\PropertiesSyntaxApp\obj\Debug\PropertiesSyntaxApp.pdb
