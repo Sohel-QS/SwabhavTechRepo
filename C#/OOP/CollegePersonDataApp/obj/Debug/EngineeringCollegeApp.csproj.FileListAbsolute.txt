@@ -1,0 +1,7 @@
+C:\Users\Sohil\source\repos\CollegePersonDataApp\bin\Debug\CollegePersonDataApp.exe.config
+C:\Users\Sohil\source\repos\CollegePersonDataApp\bin\Debug\CollegePersonDataApp.exe
+C:\Users\Sohil\source\repos\CollegePersonDataApp\bin\Debug\CollegePersonDataApp.pdb
+C:\Users\Sohil\source\repos\CollegePersonDataApp\obj\Debug\EngineeringCollegeApp.csproj.AssemblyReference.cache
+C:\Users\Sohil\source\repos\CollegePersonDataApp\obj\Debug\EngineeringCollegeApp.csproj.CoreCompileInputs.cache
+C:\Users\Sohil\source\repos\CollegePersonDataApp\obj\Debug\CollegePersonDataApp.exe
+C:\Users\Sohil\source\repos\CollegePersonDataApp\obj\Debug\CollegePersonDataApp.pdb
