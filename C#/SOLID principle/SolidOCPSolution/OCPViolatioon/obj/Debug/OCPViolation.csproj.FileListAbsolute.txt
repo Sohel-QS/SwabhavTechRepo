@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPViolatioon\bin\Debug\OCPViolatioon.exe.config
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPViolatioon\bin\Debug\OCPViolatioon.exe
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPViolatioon\bin\Debug\OCPViolatioon.pdb
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPViolatioon\obj\Debug\OCPViolation.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPViolatioon\obj\Debug\OCPViolatioon.exe
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPViolatioon\obj\Debug\OCPViolatioon.pdb
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPViolatioon\obj\Debug\OCPViolation.csproj.AssemblyReference.cache

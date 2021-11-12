@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPSolution\bin\Debug\OCPSolution.exe.config
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPSolution\bin\Debug\OCPSolution.exe
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPSolution\bin\Debug\OCPSolution.pdb
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPSolution\obj\Debug\OCPSolution.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPSolution\obj\Debug\OCPSolution.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPSolution\obj\Debug\OCPSolution.exe
+C:\SwabhavTech\C#\SOLID principle\SolidOCPSolution\OCPSolution\obj\Debug\OCPSolution.pdb

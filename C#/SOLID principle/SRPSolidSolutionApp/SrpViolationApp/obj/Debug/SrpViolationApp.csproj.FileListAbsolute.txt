@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpViolationApp\bin\Debug\SrpViolationApp.exe.config
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpViolationApp\bin\Debug\SrpViolationApp.exe
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpViolationApp\bin\Debug\SrpViolationApp.pdb
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpViolationApp\obj\Debug\SrpViolationApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpViolationApp\obj\Debug\SrpViolationApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpViolationApp\obj\Debug\SrpViolationApp.exe
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpViolationApp\obj\Debug\SrpViolationApp.pdb

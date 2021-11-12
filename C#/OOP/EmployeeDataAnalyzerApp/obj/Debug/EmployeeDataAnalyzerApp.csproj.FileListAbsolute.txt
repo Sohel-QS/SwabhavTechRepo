@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\EmployeeDataAnalyzerApp\obj\Debug\EmployeeDataAnalyzerApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\EmployeeDataAnalyzerApp\bin\Debug\EmployeeDataAnalyzerApp.exe.config
+C:\SwabhavTech\C#\OOP\EmployeeDataAnalyzerApp\bin\Debug\EmployeeDataAnalyzerApp.exe
+C:\SwabhavTech\C#\OOP\EmployeeDataAnalyzerApp\bin\Debug\EmployeeDataAnalyzerApp.pdb
+C:\SwabhavTech\C#\OOP\EmployeeDataAnalyzerApp\obj\Debug\EmployeeDataAnalyzerApp.exe
+C:\SwabhavTech\C#\OOP\EmployeeDataAnalyzerApp\obj\Debug\EmployeeDataAnalyzerApp.pdb
+C:\SwabhavTech\C#\OOP\EmployeeDataAnalyzerApp\obj\Debug\EmployeeDataAnalyzerApp.csproj.AssemblyReference.cache

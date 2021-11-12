@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpSolutionApp\bin\Debug\SrpSolutionApp.exe.config
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpSolutionApp\bin\Debug\SrpSolutionApp.exe
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpSolutionApp\bin\Debug\SrpSolutionApp.pdb
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpSolutionApp\obj\Debug\SrpSolutionApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpSolutionApp\obj\Debug\SrpSolutionApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpSolutionApp\obj\Debug\SrpSolutionApp.exe
+C:\SwabhavTech\C#\SOLID principle\SRPSolidSolutionApp\SrpSolutionApp\obj\Debug\SrpSolutionApp.pdb
