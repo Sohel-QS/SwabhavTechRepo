@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chapter 4</title>
+        <style> </style>
+    </head>
+    <body>
+
+        <script>
+            var xPos = 300;
+            var yPos = 150;
+            function sendWarning(x, y) {
+                if ((x < xPos) && (y < yPos)) {
+                    return "Adjust the position";
+                } else {
+                    return "Things are fine!";
+                }
+            }
+            
+            alert("First Warning :"+sendWarning(500, 160)+
+            "\nSecond Warning :"+sendWarning(100, 100)+
+            "\nThird Warning :"+sendWarning(201, 149));
+        </script>
+
+    </body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chapter 5</title>
+        <style> </style>
+    </head>
+    <body>
+
+        <script>
+            function PrintFibbonacciUpto(endPoint){
+                sum=0;
+                num1=0;
+                num2=1;
+                for(var i=0;i<10;i++){
+                    if(i==0 || i==1){
+                        document.writeln(i);
+                        continue;
+                    }
+                    sum=num1+num2;
+                    document.writeln(sum);
+                    num1=num2;
+                    num2=sum;
+                }
+            }
+
+            PrintFibbonacciUpto(10);
+        </script>
+
+    </body>
+</html>
