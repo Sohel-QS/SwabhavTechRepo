@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPSolution\obj\Debug\DIPSolution.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPSolution\bin\Debug\DIPSolution.exe.config
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPSolution\bin\Debug\DIPSolution.exe
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPSolution\bin\Debug\DIPSolution.pdb
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPSolution\obj\Debug\DIPSolution.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPSolution\obj\Debug\DIPSolution.exe
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPSolution\obj\Debug\DIPSolution.pdb

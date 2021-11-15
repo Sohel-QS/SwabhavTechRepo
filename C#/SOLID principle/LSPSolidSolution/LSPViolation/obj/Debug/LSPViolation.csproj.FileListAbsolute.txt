@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\SOLID principle\LSPSolidSolution\LSPViolation\bin\Debug\LSPViolation.exe.config
+C:\SwabhavTech\C#\SOLID principle\LSPSolidSolution\LSPViolation\bin\Debug\LSPViolation.exe
+C:\SwabhavTech\C#\SOLID principle\LSPSolidSolution\LSPViolation\bin\Debug\LSPViolation.pdb
+C:\SwabhavTech\C#\SOLID principle\LSPSolidSolution\LSPViolation\obj\Debug\LSPViolation.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\SOLID principle\LSPSolidSolution\LSPViolation\obj\Debug\LSPViolation.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\SOLID principle\LSPSolidSolution\LSPViolation\obj\Debug\LSPViolation.exe
+C:\SwabhavTech\C#\SOLID principle\LSPSolidSolution\LSPViolation\obj\Debug\LSPViolation.pdb

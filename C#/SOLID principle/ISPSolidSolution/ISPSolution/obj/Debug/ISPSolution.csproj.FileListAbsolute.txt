@@ -1,0 +1,1 @@
+C:\SwabhavTech\C#\SOLID principle\ISPSolidSolution\ISPSolution\obj\Debug\ISPSolution.csproj.CoreCompileInputs.cache

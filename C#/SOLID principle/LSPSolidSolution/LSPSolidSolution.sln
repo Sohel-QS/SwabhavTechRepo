@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPSolution", "LSPSolution\LSPSolution.csproj", "{1E36C444-1CC9-46E9-B0DC-11A3E3BE5C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPViolation", "LSPViolation\LSPViolation.csproj", "{8AB83012-8A9C-4219-855C-72AA66B87920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E36C444-1CC9-46E9-B0DC-11A3E3BE5C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E36C444-1CC9-46E9-B0DC-11A3E3BE5C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E36C444-1CC9-46E9-B0DC-11A3E3BE5C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E36C444-1CC9-46E9-B0DC-11A3E3BE5C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB83012-8A9C-4219-855C-72AA66B87920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB83012-8A9C-4219-855C-72AA66B87920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB83012-8A9C-4219-855C-72AA66B87920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB83012-8A9C-4219-855C-72AA66B87920}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55A29CEB-AB05-40F2-951F-38FF5B3D2CF1}
+	EndGlobalSection
+EndGlobal

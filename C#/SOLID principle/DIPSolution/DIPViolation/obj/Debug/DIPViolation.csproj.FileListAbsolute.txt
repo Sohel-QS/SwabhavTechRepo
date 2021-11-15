@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPViolation\bin\Debug\DIPViolation.exe.config
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPViolation\bin\Debug\DIPViolation.exe
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPViolation\bin\Debug\DIPViolation.pdb
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPViolation\obj\Debug\DIPViolation.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPViolation\obj\Debug\DIPViolation.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPViolation\obj\Debug\DIPViolation.exe
+C:\SwabhavTech\C#\SOLID principle\DIPSolution\DIPViolation\obj\Debug\DIPViolation.pdb
