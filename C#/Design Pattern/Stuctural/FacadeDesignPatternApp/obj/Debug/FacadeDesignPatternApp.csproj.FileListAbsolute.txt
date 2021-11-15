@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\Design Pattern\FacadeDesignPatternApp\obj\Debug\FacadeDesignPatternApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\Design Pattern\FacadeDesignPatternApp\obj\Debug\FacadeDesignPatternApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\Design Pattern\FacadeDesignPatternApp\bin\Debug\FacadeDesignPatternApp.exe.config
+C:\SwabhavTech\C#\Design Pattern\FacadeDesignPatternApp\bin\Debug\FacadeDesignPatternApp.exe
+C:\SwabhavTech\C#\Design Pattern\FacadeDesignPatternApp\bin\Debug\FacadeDesignPatternApp.pdb
+C:\SwabhavTech\C#\Design Pattern\FacadeDesignPatternApp\obj\Debug\FacadeDesignPatternApp.exe
+C:\SwabhavTech\C#\Design Pattern\FacadeDesignPatternApp\obj\Debug\FacadeDesignPatternApp.pdb
