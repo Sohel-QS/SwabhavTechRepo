@@ -12,7 +12,6 @@ namespace EmployeeDataAnalyzerApp.Model
         Dictionary<int, Employee> employees = new Dictionary<int, Employee>();
         List<int> departments = new List<int>();
         List<string> designations = new List<string>();
-
         public Dictionary<int, Employee>.ValueCollection GetEmployees()
         {
             DataLoader data = new DataLoader();
