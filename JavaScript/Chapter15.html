@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Chapter 15</title>
+</head>
+<body>
+</body>
+<script>
+    var total = 4 + 26;
+    var average = total / 2;
+    var doublePi = 2 * 3.14159;
+    var subtraction = 50 - 25;
+    var remainder = total % 7;
+    var more = (1 + average * 10) / 5;
+
+    document.writeln("Total :"+total+"<br>Average :"+average+"<br>Double Pi :"+doublePi+
+    "<br>Subtraction :"+subtraction+"<br>Remainder :"+
+    remainder+"<br>Multiple operations :" + more);
+
+    var i=5;
+
+    document.writeln("<br><br>Post increament :"+ i++ +"<br>Post decreament:"+ i-- +
+    "<br>Pre increament :"+ ++i +"<br>Pre decreament :"+ --i );
+
+    document.writeln("<br><br>Special Values :<br>");
+
+    var reallySmallNumber = -Infinity;
+    var reallyBigNumber = Infinity;
+    document.writeln("Big Number :"+reallyBigNumber+"<br>Small Nuber :"+reallySmallNumber);
+    document.writeln("<br>Not a Number :"+Math.sqrt(-1));
+
+    document.writeln("<br><br>Math Constants :<br>");
+    document.writeln("Euler's Constant :"+ Math.E +"<br>Natural Log of 2 :"+ Math.LN2 +"<br>Natural Log of 10 :"+ Math.LN10+
+                "<br>Base 2 log of E :"+ Math.LOG2E + "<br>Base 10 log of E :"+ Math.LOG10E+"<br>PI :"+Math.PI+
+                "<br>Square root of 1/2 :"+ Math.SQRT1_2 + "<br>Square root of 2 :"+ Math.SQRT2);
+
+    
+    document.writeln("<br><br>Rounding Numbers :<br>");
+    document.writeln("Floor of 3.9 :"+Math.floor(3.9)+
+    "<br>Round of 3.9 :"+Math.round(3.9)+
+    "<br>Ceil of 3.9 :"+Math.ceil(3.9));
+
+    document.writeln("<br><br>Trignomatric Function :<br>");
+    document.writeln("Cos of 0 :"+Math.cos(0)+
+    "<br>Sin of 0 :"+Math.sin(0)+
+    "<br>Tan of 0 :"+Math.tan(0));
+
+    document.writeln("<br><br>Powers and Square Roots:<br>");
+    document.writeln("2^4 :"+Math.pow(2, 4)+
+    "<br>e^3 :"+Math.exp(3)+
+    "<br>Square root of 16 :"+Math.sqrt(16));
+
+    document.writeln("<br><br>Absolute value of -34 :"+Math.abs(-34));
+    document.writeln("<br><br> Random Number :"+Math.random()*100);
+</script>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>Chapter 14</title>
+    </head>
+    <body>
+    </body>
+    <script>
+        var groceries = ["Milk", "Eggs", "Frosted Flakes", "Salami", "Juice"];
+
+        document.writeln("Accessing value of array using Index :" + groceries[1]+"<br>");
+
+        document.writeln("All elements of array using Index :<br>");
+        for(var index=0; index<groceries.length ; index++)
+        {
+            document.writeln(groceries[index]+"<br>");
+        }
+
+        document.writeln("Adding item to Array :<br>");
+        groceries.unshift("bananas");
+        groceries.push("Cookies")
+        
+        document.writeln("All elements of array after adding items :<br>");
+        for(var index=0; index<groceries.length ; index++)
+        {
+            document.writeln(groceries[index]+"<br>");
+        }
+
+        document.writeln("Removing item from Array :<br>");
+        groceries.shift("Bananas");
+        groceries.pop("Cookies")
+
+        document.writeln("All elements of array after removing items :<br>");
+        for(var index=0; index<groceries.length ; index++)
+        {
+            document.writeln(groceries[index]+"<br>");
+        }
+        
+        document.writeln("Finding item in Array :<br>");
+        document.writeln("'Eggs' is at Index :"+groceries.indexOf("Eggs")+"<br>");
+
+        var otherGroceries = ["Bananas","Cookies"];
+        groceries = groceries.concat(otherGroceries);
+        document.writeln("All elements of array after merging Items :<br>");
+        for(var index=0; index<groceries.length ; index++)
+        {
+            document.writeln(groceries[index]+"<br>");
+        }
+    </script>
+</html>

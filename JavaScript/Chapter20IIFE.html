@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        <title>Chapter 20</title>
+        <style> </style>
+    </head>
+    <body>    
+
+    </body>
+    
+    <script>
+        var awesomeSauce = (function () {
+            var secretCode = "Zorb!";
+            function privateCheckCode(code) {
+                if (secretCode == code) {
+                    alert("You are awesome!");   
+                } else {
+                    alert("Try again!");   
+                }
+            }
+            return {
+                checkCode: privateCheckCode
+            };
+        })();
+
+        var foo = Object.create(awesomeSauce);
+        document.writeln(foo.secretCode);
+
+    </script>
+
+</html>

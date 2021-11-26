@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        <title>Chapter 20</title>
+        <style> </style>
+    </head>
+    <body>
+    
+    <script>
+        // anonymous function #1
+        var isLucky = function () {
+            var foo = Math.round(Math.random() * 100);
+             if (foo > 50) {
+                return "You are lucky!";
+            } 
+            else {
+                return "You are not lucky!";
+            }
+        };
+
+        var me = isLucky();
+       document.writeln(me+"<br>");
+
+       // anonymous function #2
+        window.setTimeout(function () {
+            alert("Everything is awesome!!!");
+        }, 2000);
+
+    </script>
+    
+</body>
+</html>

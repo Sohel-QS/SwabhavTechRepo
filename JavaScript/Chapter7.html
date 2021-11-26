@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chapter 7</title>
+        <style> </style>
+    </head>
+    <body>
+
+        <script>
+            var state2 = "off"
+            function setState() { 
+                var state1 = "on";//Local Scope
+            } 
+            setState();
+
+            document.writeln("1)Gloal Scope State:"+state2);
+            document.writeln("1)Local Scope State:"+state1);//error
+        </script>
+
+    </body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chapter 11</title>
+        <style> </style>
+    </head>
+    <body>
+
+        <script>
+            //-Array
+            var names = ["sohel", "chinmay", "sanket", "vaibhav"];
+            document.writeln("Declaration of Array Type1 :<br>"+names);
+
+            var otherNames = new Array("Dennis", "Frank", "Dee", "Mac");
+            document.writeln("<br><br>Declaration of Array Type2 :<br>"+otherNames);
+
+            //-round number
+            var roundNum = Math.round("3.14");
+            document.writeln("<br><br>Round Numder :"+roundNum);
+
+            // today's date
+            var today = new Date();
+            document.writeln("<br><br>Today's Date :"+today.toDateString());
+            
+            // a boolean object
+            var booleanObject = new Boolean(true);
+            document.writeln("<br><br>Boolean Object :"+booleanObject);
+
+            // infinity
+            var unquantifiablyBigNumber = Infinity;
+            document.writeln("<br><br>Value :"+unquantifiablyBigNumber);
+
+            // a string object
+            var movie = "Pulp Fiction";
+            var movieObj = new String("Pulp Fiction");
+            document.writeln("<br><br>String Direct Assignment :"+movie);
+            document.writeln("<br><br>String Assignment using Object :"+movieObj);
+        </script>
+
+    </body>
+</html>

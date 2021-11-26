@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        <title>Chapter 16</title>
+        <style> </style>
+    </head>
+    <body>
+    
+    <script>
+        var person = {
+                        getName: function () {
+                            return "Name is " + this.firstName + " " + this.lastName;
+                        }
+                    };
+        var funnyGuy = Object.create(person);
+        funnyGuy.firstName = "Conan";
+        funnyGuy.lastName = "O'Brien";
+        document.writeln(funnyGuy.getName() +"<br>");
+
+        var theDude = Object.create(person);
+        theDude.firstName = "Jeffrey";
+        theDude.lastName = "Lebowski";
+        document.writeln(theDude.getName() +"<br>");
+
+        var detective = Object.create(person);
+        detective.firstName = "Adrian";
+        detective.lastName = "Monk";
+        document.writeln(detective.getName() +"<br>");
+    </script>
+
+</body>
+</html>

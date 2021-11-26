@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Chapter 12</title>
+</head>
+<body>
+</body>
+<script>
+    var textA = "I really don't know";
+    var textB = " why anybody would";
+    var textC = "do this";
+    var combinedA = textA + textB;
+    document.writeln("Concat string using '+' Operator: "+combinedA+"<br>");
+
+    var combinedB = combinedA.concat(" ", textC);
+    document.writeln("Concat string using 'concat' Method: "+combinedB+"<br>");
+
+    document.writeln("Slicing method: "+combinedB.slice(0,20)+"<br>");
+
+    document.writeln("Slicing method: "+combinedB.slice(-14,-7)+"<br>");
+
+    document.writeln("Substring method: "+combinedB.substr(2,6)+"<br>");
+    
+    document.writeln("Spliting method: "+combinedB.split(" ")+"<br>");
+
+    document.writeln("Finding 'z' inside String using indexOf method: "+combinedB.indexOf("z")+"<br>");
+
+    document.writeln("Finding 'do' inside String using indexOf method: "+combinedB.indexOf("do")+"<br>");
+
+    document.writeln("Finding last occurrence 'd' inside String using indexOf method: "+combinedB.indexOf("d")+"<br>");
+
+    var phrase = "My name is Bond. James Bond.";
+
+    document.writeln("Converting phrase to Upper Case :"+phrase.toUpperCase()+"<br>");
+
+    document.writeln("Converting phrase to Lower Case :"+phrase.toLowerCase());
+</script>
+</html>
