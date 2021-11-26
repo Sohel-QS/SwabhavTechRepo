@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input id="data">
+        
+    <button id="addData">Add</button>
+    <button id="retrieveData">Retrieve</button>
+    
+</body>
+<script>
+    var addBtn = document.querySelector("#addData");
+    var retrieveBtn = document.querySelector("#retrieveData");
+
+    addBtn.addEventListener("click", addDataToLocal);
+    retrieveBtn.addEventListener("click", retrieveDataFromLocal);
+
+    function addDataToLocal(){
+        var inputContent = document.querySelector("#data").value;
+        sessionStorage.setItem("contentAdded", inputContent);
+        console.log("content Added"+" "+inputContent);
+        inputContent.value = "";
+    }
+
+    function retrieveDataFromLocal(){
+        var retrievedContent = sessionStorage.getItem("contentAdded");
+        document.querySelector("#data").value = retrievedContent;
+        console.log("Content Retireved"+" "+retrievedContent);
+    }
+</script>
+</html>

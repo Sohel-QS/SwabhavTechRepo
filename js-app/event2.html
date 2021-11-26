@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id = "btn1">Red</button>
+    <button id = "btn2">Blue</button>
+</body>
+
+<script>
+    var redbtn = document.querySelector("#btn1");
+    redbtn.addEventListener("click", red);
+
+    var bluebtn = document.querySelector("#btn2");
+    bluebtn.addEventListener("click", blue);
+
+    function red(){
+        console.log("clicked red button");
+        document.bgColor = "red";
+    }
+
+    function blue(){
+        console.log(arguments.length);
+        console.log("clicked blue button");
+        document.bgColor = "blue";
+    }
+</script>
+</html>

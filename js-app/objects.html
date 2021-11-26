@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body id ="comment">
+    <table id ="studentTable">
+        <thead>
+            <tr>
+                <td>Name</td>
+                <td>Cgpa</td>
+                <td>Location</td>
+            </tr>
+        </thead>
+    </table>
+</body>
+<script>
+    var comment = document.querySelector("#comment");
+
+    var s1 = { name:"Sohel", cgpa:7.7};
+    console.log(s1.name);
+    console.log(s1.cgpa);
+
+    localStorage["aurionpro.student"] = s1;
+    console.log(localStorage["arionpro.student"]);
+
+    var studentObj = JSON.stringify(s1);
+    localStorage.setItem("aurionpro.student",studentObj);
+
+    var studentObj2 = localStorage.getItem("arionpro.student");
+    var s2 = JSON.parse(studentObj);
+    s2.location = "Mumbai";
+    console.log(s2);
+
+    var students = [
+        {name:"Sohel", cgpa:7.7, location:"Mumbai"},
+        {name:"Chinmay", cgpa:7.9, location:"Mumbai"},
+        {name:"Sanket", cgpa:8.5, location:"Nagpur"},
+        {name:"Sagar", cgpa:7.2, location:"Rabale"},
+        {name:"Vinay", cgpa:8.5, location:"Mumbai"}];
+
+
+    function addCell(tr, val) {
+        td = document.createElement('td');
+
+        td.innerHTML = val;
+
+        tr.appendChild(td);
+    }
+
+    var studentsObj = JSON.stringify(students);
+    localStorage.setItem("aurionpro.student", studentsObj);
+
+    var students2 = localStorage.getItem("aurionpro.student");
+    var aurionProStudents = JSON.parse(students2);
+    console.log(aurionProStudents);
+
+    console.log("Students from Mumbai");
+    aurionProStudents.filter(student=>student.location == "Mumbai").
+                    forEach(student=>console.log(student));
+
+    console.log("Students with cgpa grreater than 7");
+    aurionProStudents.filter(student=>student.cgpa > 7).
+                    forEach(student => console.log(student));
+
+    aurionProStudents.forEach(Display);
+
+    function Display(student){
+        var studentTable = document.querySelector("#studentTable");
+
+        var tbody = document.createElement("tbody");
+        var studentDataRow = document.createElement("tr");
+
+        addCell(studentDataRow, student.name);
+        addCell(studentDataRow, student.cgpa);
+        addCell(studentDataRow, student.location);
+        tbody.appendChild(studentDataRow);
+        studentTable.appendChild(tbody);
+    }
+</script>
+</html>

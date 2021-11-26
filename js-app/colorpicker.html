@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <b>Select Color For Back Ground</b>
+
+    <select id="colorlist">
+        
+        <option>--select--</option>
+        <option value="F2C7BE">red</option>
+        <option value="BEDEF2">blue</option>
+        <option value="58FF33">green</option>
+    </select>
+</body>
+
+<script>
+    function setBgColor()
+    {
+        document.bgColor = myList.value;
+    }
+
+    var myList = document.querySelector("#colorlist");
+    myList.addEventListener("change",setBgColor);
+</script>
+</html>
