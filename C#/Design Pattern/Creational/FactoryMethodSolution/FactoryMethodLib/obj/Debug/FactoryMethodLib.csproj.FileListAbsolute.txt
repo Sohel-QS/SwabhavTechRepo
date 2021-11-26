@@ -1,0 +1,6 @@
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodLib\bin\Debug\FactoryMethodLib.dll
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodLib\bin\Debug\FactoryMethodLib.pdb
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodLib\obj\Debug\FactoryMethodLib.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodLib\obj\Debug\FactoryMethodLib.dll
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodLib\obj\Debug\FactoryMethodLib.pdb
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodLib\obj\Debug\FactoryMethodLib.csproj.AssemblyReference.cache

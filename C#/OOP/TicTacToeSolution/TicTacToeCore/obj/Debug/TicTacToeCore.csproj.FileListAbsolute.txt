@@ -1,0 +1,6 @@
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToeCore\obj\Debug\TicTacToeCore.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToeCore\obj\Debug\TicTacToeCore.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToeCore\obj\Debug\TicTacToeCore.dll
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToeCore\obj\Debug\TicTacToeCore.pdb
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToeCore\bin\Debug\TicTacToeCore.dll
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToeCore\bin\Debug\TicTacToeCore.pdb

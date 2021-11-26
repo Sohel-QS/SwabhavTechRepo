@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\Design Pattern\Stuctural\CompositePatternSolution\CompositePatternFolderApp\bin\Debug\CompositePatternFolderApp.exe.config
+C:\SwabhavTech\C#\Design Pattern\Stuctural\CompositePatternSolution\CompositePatternFolderApp\bin\Debug\CompositePatternFolderApp.exe
+C:\SwabhavTech\C#\Design Pattern\Stuctural\CompositePatternSolution\CompositePatternFolderApp\bin\Debug\CompositePatternFolderApp.pdb
+C:\SwabhavTech\C#\Design Pattern\Stuctural\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\CompositePatternFolderApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\Design Pattern\Stuctural\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\CompositePatternFolderApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\Design Pattern\Stuctural\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\CompositePatternFolderApp.exe
+C:\SwabhavTech\C#\Design Pattern\Stuctural\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\CompositePatternFolderApp.pdb

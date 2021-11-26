@@ -1,0 +1,16 @@
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\obj\Debug\TicTacToe.Test.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\bin\Debug\TicTacToe.Test.dll
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\bin\Debug\TicTacToe.Test.pdb
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\bin\Debug\TicTacToeCore.dll
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\bin\Debug\TicTacToeCore.pdb
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\obj\Debug\TicTacToe.Test.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\obj\Debug\TicTacToe.Test.csproj.CopyComplete
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\obj\Debug\TicTacToe.Test.dll
+C:\SwabhavTech\C#\OOP\TicTacToeSolution\TicTacToe.Test\obj\Debug\TicTacToe.Test.pdb

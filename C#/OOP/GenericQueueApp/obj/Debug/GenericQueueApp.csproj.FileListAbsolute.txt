@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\GenericQueueApp\bin\Debug\GenericQueueApp.exe.config
+C:\SwabhavTech\C#\OOP\GenericQueueApp\bin\Debug\GenericQueueApp.exe
+C:\SwabhavTech\C#\OOP\GenericQueueApp\bin\Debug\GenericQueueApp.pdb
+C:\SwabhavTech\C#\OOP\GenericQueueApp\obj\Debug\GenericQueueApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\GenericQueueApp\obj\Debug\GenericQueueApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\GenericQueueApp\obj\Debug\GenericQueueApp.exe
+C:\SwabhavTech\C#\OOP\GenericQueueApp\obj\Debug\GenericQueueApp.pdb

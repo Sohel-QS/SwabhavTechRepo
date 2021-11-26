@@ -1,0 +1,10 @@
+C:\SwabhavTech\C#\Design Pattern\Behavioral\ObserverPatternSolution\SubscriberClientAppl\bin\Debug\SubscriberClientAppl.exe.config
+C:\SwabhavTech\C#\Design Pattern\Behavioral\ObserverPatternSolution\SubscriberClientAppl\bin\Debug\SubscriberClientAppl.exe
+C:\SwabhavTech\C#\Design Pattern\Behavioral\ObserverPatternSolution\SubscriberClientAppl\bin\Debug\SubscriberClientAppl.pdb
+C:\SwabhavTech\C#\Design Pattern\Behavioral\ObserverPatternSolution\SubscriberClientAppl\bin\Debug\PublisherLib.dll
+C:\SwabhavTech\C#\Design Pattern\Behavioral\ObserverPatternSolution\SubscriberClientAppl\bin\Debug\PublisherLib.pdb
+C:\SwabhavTech\C#\Design Pattern\Behavioral\ObserverPatternSolution\SubscriberClientAppl\obj\Debug\SubscriberClientAppl.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\Design Pattern\Behavioral\ObserverPatternSolution\SubscriberClientAppl\obj\Debug\SubscriberClientAppl.csproj.CopyComplete
+C:\SwabhavTech\C#\Design Pattern\Behavioral\ObserverPatternSolution\SubscriberClientAppl\obj\Debug\SubscriberClientAppl.exe
+C:\SwabhavTech\C#\Design Pattern\Behavioral\ObserverPatternSolution\SubscriberClientAppl\obj\Debug\SubscriberClientAppl.pdb
+C:\SwabhavTech\C#\Design Pattern\Behavioral\ObserverPatternSolution\SubscriberClientAppl\obj\Debug\SubscriberClientAppl.csproj.AssemblyReference.cache

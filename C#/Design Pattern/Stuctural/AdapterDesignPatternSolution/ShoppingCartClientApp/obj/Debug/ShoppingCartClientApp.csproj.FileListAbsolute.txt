@@ -1,0 +1,10 @@
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\ShoppingCartClientApp\obj\Debug\ShoppingCartClientApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\ShoppingCartClientApp\obj\Debug\ShoppingCartClientApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\ShoppingCartClientApp\bin\Debug\ShoppingCartClientApp.exe.config
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\ShoppingCartClientApp\bin\Debug\ShoppingCartClientApp.exe
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\ShoppingCartClientApp\bin\Debug\ShoppingCartClientApp.pdb
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\ShoppingCartClientApp\bin\Debug\FancyItemsLiib.dll
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\ShoppingCartClientApp\bin\Debug\FancyItemsLiib.pdb
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\ShoppingCartClientApp\obj\Debug\ShoppingCartClientApp.csproj.CopyComplete
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\ShoppingCartClientApp\obj\Debug\ShoppingCartClientApp.exe
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\ShoppingCartClientApp\obj\Debug\ShoppingCartClientApp.pdb

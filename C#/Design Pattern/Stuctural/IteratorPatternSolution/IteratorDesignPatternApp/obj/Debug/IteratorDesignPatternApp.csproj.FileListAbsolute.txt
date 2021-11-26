@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\Design Pattern\Stuctural\IteratorPatternSolution\IteratorDesignPatternApp\bin\Debug\IteratorDesignPatternApp.exe.config
+C:\SwabhavTech\C#\Design Pattern\Stuctural\IteratorPatternSolution\IteratorDesignPatternApp\bin\Debug\IteratorDesignPatternApp.exe
+C:\SwabhavTech\C#\Design Pattern\Stuctural\IteratorPatternSolution\IteratorDesignPatternApp\bin\Debug\IteratorDesignPatternApp.pdb
+C:\SwabhavTech\C#\Design Pattern\Stuctural\IteratorPatternSolution\IteratorDesignPatternApp\obj\Debug\IteratorDesignPatternApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\Design Pattern\Stuctural\IteratorPatternSolution\IteratorDesignPatternApp\obj\Debug\IteratorDesignPatternApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\Design Pattern\Stuctural\IteratorPatternSolution\IteratorDesignPatternApp\obj\Debug\IteratorDesignPatternApp.exe
+C:\SwabhavTech\C#\Design Pattern\Stuctural\IteratorPatternSolution\IteratorDesignPatternApp\obj\Debug\IteratorDesignPatternApp.pdb

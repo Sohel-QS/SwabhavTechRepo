@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\DelegateApp\obj\Debug\DelegateApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\DelegateApp\obj\Debug\DelegateApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\DelegateApp\bin\Debug\DelegateApp.exe.config
+C:\SwabhavTech\C#\OOP\DelegateApp\bin\Debug\DelegateApp.exe
+C:\SwabhavTech\C#\OOP\DelegateApp\bin\Debug\DelegateApp.pdb
+C:\SwabhavTech\C#\OOP\DelegateApp\obj\Debug\DelegateApp.exe
+C:\SwabhavTech\C#\OOP\DelegateApp\obj\Debug\DelegateApp.pdb

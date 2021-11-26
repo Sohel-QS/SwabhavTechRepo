@@ -1,0 +1,5 @@
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\FancyItemsLiib\bin\Debug\FancyItemsLiib.dll
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\FancyItemsLiib\bin\Debug\FancyItemsLiib.pdb
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\FancyItemsLiib\obj\Debug\FancyItemsLib.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\FancyItemsLiib\obj\Debug\FancyItemsLiib.dll
+C:\SwabhavTech\C#\Design Pattern\Stuctural\AdapterDesignPatternSolution\FancyItemsLiib\obj\Debug\FancyItemsLiib.pdb

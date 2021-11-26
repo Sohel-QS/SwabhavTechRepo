@@ -1,0 +1,10 @@
+C:\SwabhavTech\C#\Design Pattern\Creational\SimpleFactorySolution\SimpleClientFactoryApp\bin\Debug\SimpleClientFactoryApp.exe.config
+C:\SwabhavTech\C#\Design Pattern\Creational\SimpleFactorySolution\SimpleClientFactoryApp\bin\Debug\SimpleClientFactoryApp.exe
+C:\SwabhavTech\C#\Design Pattern\Creational\SimpleFactorySolution\SimpleClientFactoryApp\bin\Debug\SimpleClientFactoryApp.pdb
+C:\SwabhavTech\C#\Design Pattern\Creational\SimpleFactorySolution\SimpleClientFactoryApp\obj\Debug\SimpleClientFactoryApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\Design Pattern\Creational\SimpleFactorySolution\SimpleClientFactoryApp\obj\Debug\SimpleClientFactoryApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\Design Pattern\Creational\SimpleFactorySolution\SimpleClientFactoryApp\obj\Debug\SimpleClientFactoryApp.exe
+C:\SwabhavTech\C#\Design Pattern\Creational\SimpleFactorySolution\SimpleClientFactoryApp\obj\Debug\SimpleClientFactoryApp.pdb
+C:\SwabhavTech\C#\Design Pattern\Creational\SimpleFactorySolution\SimpleClientFactoryApp\bin\Debug\SimpleFactoryLib.dll
+C:\SwabhavTech\C#\Design Pattern\Creational\SimpleFactorySolution\SimpleClientFactoryApp\bin\Debug\SimpleFactoryLib.pdb
+C:\SwabhavTech\C#\Design Pattern\Creational\SimpleFactorySolution\SimpleClientFactoryApp\obj\Debug\SimpleClientFactoryApp.csproj.CopyComplete

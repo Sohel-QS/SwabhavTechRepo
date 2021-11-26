@@ -1,0 +1,10 @@
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodClientApp\bin\Debug\FactoryMethodClientApp.exe.config
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodClientApp\bin\Debug\FactoryMethodClientApp.exe
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodClientApp\bin\Debug\FactoryMethodClientApp.pdb
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodClientApp\bin\Debug\FactoryMethodLib.dll
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodClientApp\bin\Debug\FactoryMethodLib.pdb
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodClientApp\obj\Debug\FactoryMethodClientApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodClientApp\obj\Debug\FactoryMethodClientApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodClientApp\obj\Debug\FactoryMethodClientApp.csproj.CopyComplete
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodClientApp\obj\Debug\FactoryMethodClientApp.exe
+C:\SwabhavTech\C#\Design Pattern\Creational\FactoryMethodSolution\FactoryMethodClientApp\obj\Debug\FactoryMethodClientApp.pdb

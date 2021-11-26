@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\OOP\GenericNodeApp\bin\Debug\GenericNodeApp.exe.config
+C:\SwabhavTech\C#\OOP\GenericNodeApp\bin\Debug\GenericNodeApp.exe
+C:\SwabhavTech\C#\OOP\GenericNodeApp\bin\Debug\GenericNodeApp.pdb
+C:\SwabhavTech\C#\OOP\GenericNodeApp\obj\Debug\GenericNodeApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\GenericNodeApp\obj\Debug\GenericNodeApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\GenericNodeApp\obj\Debug\GenericNodeApp.exe
+C:\SwabhavTech\C#\OOP\GenericNodeApp\obj\Debug\GenericNodeApp.pdb

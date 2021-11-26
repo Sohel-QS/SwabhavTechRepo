@@ -41,15 +41,12 @@ namespace EmpDataAnalyzerUsingStrategy.Context
             {
                 if(!_deptWiseEmployee.ContainsKey(employee.DepartmentNum))
                 {
-                    var count = 0;
-                    foreach(var emp in employees)
-                    {
-                        if(emp.DepartmentNum==employee.DepartmentNum)
-                        {
-                            count +=1;
-                        }
-                    }
+                    var count = 1;
                     _deptWiseEmployee.Add(employee.DepartmentNum, count);
+                }
+                else
+                {
+                    _deptWiseEmployee[employee.DepartmentNum] += 1;
                 }
             }
 
@@ -64,15 +61,12 @@ namespace EmpDataAnalyzerUsingStrategy.Context
             {
                 if (!_jobWiseEmployee.ContainsKey(employee.Designation))
                 {
-                    var count = 0;
-                    foreach (var emp in employees)
-                    {
-                        if (emp.Designation == employee.Designation)
-                        {
-                            count += 1;
-                        }
-                    }
+                    var count = 1;
                     _jobWiseEmployee.Add(employee.Designation, count);
+                }
+                else
+                {
+                    _jobWiseEmployee[employee.Designation] += 1;
                 }
             }
 

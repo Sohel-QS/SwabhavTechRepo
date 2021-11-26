@@ -1,0 +1,7 @@
+C:\SwabhavTech\C#\Design Pattern\Stuctural\ProxyPatternSolution\ProxyPatternApp\obj\Debug\ProxyPatternApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\Design Pattern\Stuctural\ProxyPatternSolution\ProxyPatternApp\obj\Debug\ProxyPatternApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\Design Pattern\Stuctural\ProxyPatternSolution\ProxyPatternApp\bin\Debug\ProxyPatternApp.exe.config
+C:\SwabhavTech\C#\Design Pattern\Stuctural\ProxyPatternSolution\ProxyPatternApp\bin\Debug\ProxyPatternApp.exe
+C:\SwabhavTech\C#\Design Pattern\Stuctural\ProxyPatternSolution\ProxyPatternApp\bin\Debug\ProxyPatternApp.pdb
+C:\SwabhavTech\C#\Design Pattern\Stuctural\ProxyPatternSolution\ProxyPatternApp\obj\Debug\ProxyPatternApp.exe
+C:\SwabhavTech\C#\Design Pattern\Stuctural\ProxyPatternSolution\ProxyPatternApp\obj\Debug\ProxyPatternApp.pdb
